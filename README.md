@@ -1,5 +1,7 @@
 # zeroByte, an error reproducer for Spring-AI 1.1.0
 
+Issue: https://github.com/spring-projects/spring-ai/issues/4974
+
 ### `invalid byte sequence for encoding "UTF8": 0x00`
 
 ...is the error message I got today - this is a reproducer.
